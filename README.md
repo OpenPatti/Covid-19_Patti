@@ -14,3 +14,9 @@ In questa pagina sono pubblicati alcuni grafici relativi all'epidemia **Covid-19
 <iframe src="https://datastudio.google.com/reporting/e07c2bf6-14d1-4e6b-8cfa-e276886769df/page/SA0mB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
 
+<br/>
+<!-- nuovi positivi -->
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
+<iframe src="https://datastudio.google.com/embed/reporting/ed912df4-7275-4555-97f6-fc1dcfb7d59e/page/SA0mB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
+
