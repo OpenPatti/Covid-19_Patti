@@ -1,3 +1,3 @@
 # OpenPatti 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqBCb_BE0k7HV_-6Ztj1JsvnNpna7UfWM3lflKbL7VuHUKBzLKy84dB62wHmm5UDyyOPM4JvACbDzu/pubchart?oid=151370575&amp;format=interactive" frameborder="0" scrolling="no" width="100%" height="100%" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/7e6eb73c-2e7c-4f20-84da-fbe9fbeb38f9/page/SA0mB" frameborder="0" style="border:0" allowfullscreen></iframe>
