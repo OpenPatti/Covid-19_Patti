@@ -1,6 +1,9 @@
-# OpenPatti - Covid-19 a Patti (dati rilevati a partire dal 30 Settembre 2020)
+# OpenPatti - Covid-19 a Patti
+# (dati rilevati a partire dal 30 Settembre 2020)
 
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;" >
 <iframe src="https://datastudio.google.com/embed/reporting/7e6eb73c-2e7c-4f20-84da-fbe9fbeb38f9/page/SA0mB" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
 
 <br/>
 
