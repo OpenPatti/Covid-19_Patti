@@ -1,7 +1,9 @@
 # Covid-19 a Patti
 ### (dati rilevati a partire dal 30 Settembre 2020)
 [**https://openpatti.github.io/Covid-19_Patti**](https://openpatti.github.io/Covid-19_Patti/)<br/><br/>
-In questa pagina sono pubblicati alcuni grafici relativi all'epidemia **Covid-19** nella città di **Patti**; si tratta di dati resi noti dal **Sindaco di Patti** su informazioni attinte presso l'**ASP di Messina**. **OpenPatti** raccoglie queste informazioni e le registra in un repository in modo da renderli machine readable e fonte per analisi e grafici come quelli presentati in questa pagina. Ribadiamo che si tratta di dati raccolti a partire dal 30 Settembre 2020 (non sono pertanto considerati i dati anteriori a questa data e il valore "totale_casi" viene incrementato a partire dalla stessa, non si tiene pertanto conto dei casi positivi rilevati precedentemente).<br/><br/>
+In questa pagina sono pubblicati alcuni grafici relativi all'epidemia **Covid-19** nella città di **Patti**; si tratta di grafici basati sui dati, provenienti dall'**ASP di Messina**, resi noti dal **Sindaco di Patti** durante i suoi comunicati.<br/><br/>
+**OpenPatti** raccoglie questi dati e li registra in un repository in modo da renderli machine readable e fonte per analisi e grafici come quelli presentati in questa pagina.<br/>
+Ribadiamo che si tratta di dati raccolti a partire dal 30 Settembre 2020 (non sono pertanto considerati i dati anteriori a questa data e il valore "totale_casi" viene incrementato a partire dalla stessa, non si tiene pertanto conto dei casi positivi rilevati precedentemente).<br/><br/>
 **Attenzione!** l'aggiornamento e il caricamento dei dati può richiedere l'attesa di alcuni secondi per la visualizzazione dei grafici.
 <br/><br/>
 
