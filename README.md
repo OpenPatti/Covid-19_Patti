@@ -3,7 +3,8 @@
 [**https://openpatti.github.io/Covid-19_Patti**](https://openpatti.github.io/Covid-19_Patti/)<br/><br/>
 In questa pagina sono pubblicati alcuni grafici relativi all'epidemia **Covid-19** nella città di **Patti**; si tratta di grafici basati sui dati, provenienti dall'**ASP di Messina**, resi noti dal **Sindaco di Patti** durante i suoi comunicati.<br/><br/>
 **OpenPatti** raccoglie questi dati e li registra in un repository in modo da renderli machine readable e fonte per analisi e grafici come quelli presentati in questa pagina.<br/><br/>
-**Attenzione!** l'aggiornamento e il caricamento dei dati può richiedere l'attesa di alcuni secondi per la visualizzazione dei grafici.
+**Attenzione!** l'aggiornamento e il caricamento dei dati può richiedere l'attesa di alcuni secondi per la visualizzazione dei grafici.<br/>
+Facendo scorrere il mouse sul grafico vengono visualizzati i valori giornalieri.
 <br/><br/>
 
 <!-- parametri principali -->
