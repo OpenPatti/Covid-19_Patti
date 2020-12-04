@@ -1,5 +1,5 @@
 ###### [OpenPatti Web Site](https://openpatti.wordpress.com)
-<a href="https://openpatti.github.io/Covid-19_Sicilia/" target="_blank"><h6>La pandemia in Italia e in Sicilia</h6></a>
+###### [La pandemia in Italia e in Sicilia](https://openpatti.github.io/Covid-19_Sicilia)
 <a href="https://openpatti.wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/OpenPatti/openpatti.github.io/master/images/OpenPatti.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 33%;" /></a><br/>
 ## [Covid-19: l'andamento della pandemia a Patti](https://openpatti.github.io/Covid-19_Patti/)<br/>
 <!--[**https://openpatti.github.io/Covid-19_Patti**](https://openpatti.github.io/Covid-19_Patti/)<br/><br/>-->
