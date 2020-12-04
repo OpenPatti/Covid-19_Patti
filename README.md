@@ -1,6 +1,6 @@
 <a href="https://openpatti.wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/OpenPatti/openpatti.github.io/master/images/OpenPatti.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 33%;" /></a><br/>
 <a href="https://openpatti.wordpress.com" target="_blank" style="text-align: right;"><h6>OpenPatti Web Site</h6></a>
-<a href="https://openpatti.github.io/Covid-19_Sicilia/" target="_blank" ><h6 style="text-align: right;">La pandemia in Italia e in Sicilia</h6></a>
+<a href="https://openpatti.github.io/Covid-19_Sicilia/" target="_blank" style="text-align: right;"><h6>La pandemia in Italia e in Sicilia</h6></a>
 ## [Covid-19: l'andamento della pandemia a Patti](https://openpatti.github.io/Covid-19_Patti/)<br/>
 <!--[**https://openpatti.github.io/Covid-19_Patti**](https://openpatti.github.io/Covid-19_Patti/)<br/><br/>-->
 In questa pagina sono pubblicati alcuni grafici relativi all'epidemia **Covid-19** nella città di **Patti**; si tratta di grafici basati sui dati, provenienti dall'**ASP di Messina**, resi noti dal **Sindaco di Patti** durante i suoi comunicati.<br/><br/>
